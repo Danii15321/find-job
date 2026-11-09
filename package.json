@@ -1,0 +1,33 @@
+{
+  "name": "find-job",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Skill de recherche d’emploi pour Claude Code et Codex : CV LaTeX adapté à chaque offre, suivi des candidatures, planification hebdomadaire et mémoire locale.",
+  "type": "module",
+  "bin": {
+    "find-job": "bin/find-job.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "ui",
+    "skills",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "node --test test/*.test.js",
+    "ui": "node bin/find-job.js ui --workspace exemple"
+  },
+  "keywords": [
+    "cv",
+    "latex",
+    "job-search",
+    "claude-code",
+    "codex",
+    "skills"
+  ]
+}

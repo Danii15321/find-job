@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "candidate": {
+    "name": "Camille Martin"
+  },
+  "baseCv": "cv.tex",
+  "outputDir": "candidatures",
+  "maxPages": 1,
+  "engine": "auto",
+  "createdAt": "2026-10-24T19:32:14.819Z",
+  "startWeek": "2026-W42"
+}

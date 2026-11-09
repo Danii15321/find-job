@@ -1,0 +1,45 @@
+{"at":"2026-10-24T19:32:14.822Z","type":"workspace.init","summary":"Espace créé avec le CV de base cv.tex"}
+{"at":"2026-10-24T19:32:14.868Z","type":"application.prepared","summary":"CV en préparation pour Société Générale — Data Engineer Senior","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T19:32:22.429Z","type":"cv.checked","summary":"CV Société Générale : prêt · 75 %","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T19:32:33.104Z","type":"cv.checked","summary":"CV Société Générale : prêt, points à vérifier · 75 %","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T19:32:33.147Z","type":"application.status","summary":"Société Générale : Postulée — Envoyée via le site","data":{"id":"c-fe76995d","status":"postulee"}}
+{"at":"2026-10-24T19:37:32.717Z","type":"plan.set","summary":"Plan de la semaine 2026-W43 : Décrocher deux entretiens de data engineer à Lyon","data":{"week":"2026-W43"}}
+{"at":"2026-10-24T19:37:32.761Z","type":"plan.routine","summary":"Fait : Veille des offres (30 min) (2026-10-19)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-19"}}
+{"at":"2026-10-24T19:37:32.807Z","type":"plan.routine","summary":"Fait : Veille des offres (30 min) (2026-10-20)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-20"}}
+{"at":"2026-10-24T19:37:32.852Z","type":"plan.routine","summary":"Fait : Veille des offres (30 min) (2026-10-21)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-21"}}
+{"at":"2026-10-24T19:37:32.893Z","type":"plan.routine","summary":"Fait : Veille des offres (30 min) (2026-10-22)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-22"}}
+{"at":"2026-10-24T19:37:32.935Z","type":"plan.routine","summary":"Fait : Postuler avant 11 h (2026-10-20)","data":{"week":"2026-W43","routine":"postuler","day":"2026-10-20"}}
+{"at":"2026-10-24T19:37:32.982Z","type":"plan.routine","summary":"Fait : Postuler avant 11 h (2026-10-22)","data":{"week":"2026-W43","routine":"postuler","day":"2026-10-22"}}
+{"at":"2026-10-24T19:37:33.024Z","type":"plan.routine","summary":"Fait : Préparer un pitch en anglais (2026-10-21)","data":{"week":"2026-W43","routine":"anglais","day":"2026-10-21"}}
+{"at":"2026-10-24T19:37:33.066Z","type":"plan.progress","summary":"Contacter 5 personnes sur LinkedIn : 3/5","data":{"week":"2026-W43","goal":"reseau"}}
+{"at":"2026-10-24T19:37:33.110Z","type":"application.prepared","summary":"CV en préparation pour Doctolib — Data Engineer","data":{"id":"c-b2e03689"}}
+{"at":"2026-10-24T19:37:33.159Z","type":"application.prepared","summary":"CV en préparation pour Blablacar — Analytics Engineer","data":{"id":"c-9df919aa"}}
+{"at":"2026-10-24T19:37:33.211Z","type":"application.prepared","summary":"CV en préparation pour Michelin — Ingénieur données industrielles","data":{"id":"c-9d9ff165"}}
+{"at":"2026-10-24T19:37:33.260Z","type":"application.prepared","summary":"CV en préparation pour Decathlon — Data Engineer Supply","data":{"id":"c-1ae49700"}}
+{"at":"2026-10-24T19:37:33.310Z","type":"application.status","summary":"Doctolib : Postulée","data":{"id":"c-b2e03689","status":"postulee"}}
+{"at":"2026-10-24T19:37:33.349Z","type":"application.status","summary":"Doctolib : Entretien — Entretien RH mardi 14 h","data":{"id":"c-b2e03689","status":"entretien"}}
+{"at":"2026-10-24T19:37:33.395Z","type":"application.status","summary":"Blablacar : Postulée","data":{"id":"c-9df919aa","status":"postulee"}}
+{"at":"2026-10-24T19:37:33.439Z","type":"application.status","summary":"Michelin : Postulée","data":{"id":"c-9d9ff165","status":"postulee"}}
+{"at":"2026-10-24T19:37:33.482Z","type":"application.status","summary":"Société Générale : Relancée — Message au recruteur","data":{"id":"c-fe76995d","status":"relancee"}}
+{"at":"2026-10-24T19:37:33.525Z","type":"profile.fact","summary":"Fait confirmé : Certification AWS Solutions Architect Associate obtenue en 2024","data":{"id":"f-3d6b30c8"}}
+{"at":"2026-10-24T19:37:33.565Z","type":"profile.preference","summary":"Préférence roles : Data engineer, analytics engineer"}
+{"at":"2026-10-24T19:37:33.610Z","type":"profile.preference","summary":"Préférence locations : Lyon, télétravail"}
+{"at":"2026-10-24T19:37:33.653Z","type":"plan.set","summary":"Plan de la semaine 2026-W42 : Relancer la recherche après les vacances","data":{"week":"2026-W42"}}
+{"at":"2026-10-24T19:37:33.696Z","type":"plan.routine","summary":"Fait : Veille des offres (2026-10-13)","data":{"week":"2026-W42","routine":"veille","day":"2026-10-13"}}
+{"at":"2026-10-24T19:37:33.739Z","type":"plan.routine","summary":"Fait : Veille des offres (2026-10-15)","data":{"week":"2026-W42","routine":"veille","day":"2026-10-15"}}
+{"at":"2026-10-24T19:37:33.780Z","type":"plan.review","summary":"Bilan de 2026-W42 (28 %) : 3 leçon(s)","data":{"week":"2026-W42"}}
+{"at":"2026-10-24T19:43:40.332Z","type":"offer.read","summary":"Offre lue : GitLab","data":{"url":"https://boards.greenhouse.io/embed/job_board?for=gitlab","quality":"text"}}
+{"at":"2026-10-24T19:43:41.118Z","type":"offer.read","summary":"Offre lue : https://www.linkedin.com/jobs/view/1234567890","data":{"url":"https://www.linkedin.com/jobs/view/1234567890","quality":"blocked"}}
+{"at":"2026-10-24T19:43:41.428Z","type":"offer.read","summary":"Offre lue : Choisissez l'entreprise faite pour vous","data":{"url":"https://www.welcometothejungle.com/fr/companies/doctolib/jobs","quality":"thin"}}
+{"at":"2026-10-24T20:56:42.532Z","type":"config","summary":"Réglage maxPages = 1"}
+{"at":"2026-10-24T20:56:42.595Z","type":"application.letter","summary":"Lettre de motivation commencée pour Société Générale","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T20:56:43.337Z","type":"cv.checked","summary":"CV et lettre Société Générale : à corriger · 75 %","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T20:56:57.988Z","type":"cv.checked","summary":"CV et lettre Société Générale : prêt, points à vérifier · 75 %","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T20:56:58.281Z","type":"cv.checked","summary":"CV et lettre Société Générale : prêt, points à vérifier · 75 %","data":{"id":"c-fe76995d"}}
+{"at":"2026-10-24T20:59:39.362Z","type":"plan.routine","summary":"Fait : Postuler avant 11 h (2026-10-19)","data":{"week":"2026-W43","routine":"postuler","day":"2026-10-19"}}
+{"at":"2026-10-24T20:59:40.806Z","type":"plan.routine","summary":"Décoché : Postuler avant 11 h (2026-10-19)","data":{"week":"2026-W43","routine":"postuler","day":"2026-10-19"}}
+{"at":"2026-10-24T21:03:16.263Z","type":"plan.progress","summary":"Contacter 5 personnes sur LinkedIn : 4/5","data":{"week":"2026-W43","goal":"reseau"}}
+{"at":"2026-10-24T21:03:18.211Z","type":"plan.progress","summary":"Contacter 5 personnes sur LinkedIn : 3/5","data":{"week":"2026-W43","goal":"reseau"}}
+{"at":"2026-10-24T21:03:27.731Z","type":"plan.routine","summary":"Fait : Veille des offres (30 min) (2026-10-23)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-23"}}
+{"at":"2026-10-24T21:03:29.510Z","type":"plan.routine","summary":"Décoché : Veille des offres (30 min) (2026-10-23)","data":{"week":"2026-W43","routine":"veille","day":"2026-10-23"}}
+{"at":"2026-10-24T21:13:46.081Z","type":"config","summary":"Réglage startWeek = 2026-W42"}

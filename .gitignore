@@ -1,0 +1,7 @@
+node_modules/
+*.tgz
+# Espace de démonstration : seuls le CV fictif et sa mémoire d'essai sont utiles.
+exemple/.find-job/cache/
+exemple/.find-job/.lock
+exemple/**/.build/
+exemple/candidatures/**/qualite.json

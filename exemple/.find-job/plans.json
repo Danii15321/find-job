@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "weeks": {
+    "2026-W43": {
+      "week": "2026-W43",
+      "objective": "Décrocher deux entretiens de data engineer à Lyon",
+      "goals": [
+        {
+          "key": "candidatures",
+          "label": "Envoyer 8 candidatures ciblées",
+          "metric": "applications",
+          "target": 8,
+          "unit": ""
+        },
+        {
+          "key": "relances",
+          "label": "Relancer 3 recruteurs",
+          "metric": "followups",
+          "target": 3,
+          "unit": ""
+        },
+        {
+          "key": "reseau",
+          "label": "Contacter 5 personnes sur LinkedIn",
+          "metric": "manual",
+          "target": 5,
+          "unit": "messages"
+        }
+      ],
+      "routines": [
+        {
+          "key": "veille",
+          "label": "Veille des offres (30 min)",
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "minutes": 30
+        },
+        {
+          "key": "postuler",
+          "label": "Postuler avant 11 h",
+          "days": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "key": "anglais",
+          "label": "Préparer un pitch en anglais",
+          "days": [
+            2,
+            4
+          ]
+        }
+      ],
+      "notes": "",
+      "id": "p-7db82ed3",
+      "start": "2026-10-19",
+      "done": {
+        "veille": [
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22"
+        ],
+        "postuler": [
+          "2026-10-20",
+          "2026-10-22"
+        ],
+        "anglais": [
+          "2026-10-21"
+        ]
+      },
+      "progress": {
+        "reseau": 3
+      },
+      "review": null,
+      "createdAt": "2026-10-24T19:37:32.716Z",
+      "updatedAt": "2026-10-24T21:03:29.509Z"
+    },
+    "2026-W42": {
+      "week": "2026-W42",
+      "objective": "Relancer la recherche après les vacances",
+      "goals": [
+        {
+          "key": "envoyer_6_candidatures",
+          "label": "Envoyer 6 candidatures",
+          "metric": "applications",
+          "target": 6,
+          "unit": ""
+        }
+      ],
+      "routines": [
+        {
+          "key": "veille",
+          "label": "Veille des offres",
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "notes": "",
+      "id": "p-9de8ec5a",
+      "start": "2026-10-12",
+      "done": {
+        "veille": [
+          "2026-10-13",
+          "2026-10-15"
+        ]
+      },
+      "progress": {},
+      "review": {
+        "wins": "Les candidatures envoyées le matin ont eu plus de réponses.",
+        "blockers": "Trop de temps passé à adapter chaque CV à la main.",
+        "lessons": [
+          "Postuler avant 11 h",
+          "Limiter la veille à 30 minutes",
+          "Cibler les offres publiées depuis moins de 7 jours"
+        ],
+        "nextFocus": "Décrocher deux entretiens",
+        "mood": null,
+        "at": "2026-10-24T19:37:33.779Z",
+        "score": 28
+      },
+      "createdAt": "2026-10-24T19:37:33.653Z",
+      "updatedAt": "2026-10-24T19:37:33.780Z"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+%----------------------------------------------------------------------------------------
+% Lettre de motivation — modèle find-job (une page, pdflatex, paquets standard)
+% Pour utiliser votre propre modèle : placez lettre.tex à la racine de l'espace.
+%----------------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[top=2cm, bottom=2cm, left=2.3cm, right=2.3cm]{geometry}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{bleuencre}{RGB}{22,38,96}
+\definecolor{darkgray}{RGB}{50,50,50}
+\definecolor{midgray}{RGB}{105,105,105}
+\hypersetup{colorlinks=true, urlcolor=bleuencre}
+\pagestyle{empty}
+\color{darkgray}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+\linespread{1.08}
+
+%----------------------------------------------------------------------------------------
+% INFORMATIONS — renseignées par find-job prepare, à compléter par l'agent
+%----------------------------------------------------------------------------------------
+\newcommand{\candidat}{__CANDIDAT__}
+\newcommand{\coordonnees}{[à compléter : courriel \quad téléphone \quad ville]}
+\newcommand{\entreprise}{__ENTREPRISE__}
+\newcommand{\destinataire}{Équipe recrutement}
+\newcommand{\poste}{__POSTE__}
+\newcommand{\datelettre}{__DATE__}
+
+\begin{document}
+
+{\Large\bfseries\color{bleuencre}\candidat}\par\vspace{-0.6em}
+{\small\color{midgray}\coordonnees}\par\vspace{0.3em}
+{\color{bleuencre!35}\rule{\linewidth}{0.6pt}}
+
+\vspace{1.2em}
+\begin{flushright}
+  \textbf{\entreprise}\\
+  \destinataire\\[0.8em]
+  \datelettre
+\end{flushright}
+
+\textbf{Objet :} candidature -- \poste
+
+Madame, Monsieur,
+
+[à compléter : corps de la lettre]
+
+\vspace{0.6em}
+\candidat
+
+\end{document}

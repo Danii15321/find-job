@@ -1,0 +1,56 @@
+% CV de démonstration (personne fictive) — sert aux tests et à l'essai de find-job.
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage[margin=1.6cm]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{0F766E}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+\setlist[itemize]{leftmargin=1.2em, itemsep=1pt, topsep=2pt}
+\pagestyle{empty}
+
+\newcommand{\entry}[4]{\textbf{#1} \hfill #2\\ \textit{#3} \hfill #4\\[-2pt]}
+
+\begin{document}
+
+\begin{center}
+  {\Huge\bfseries Camille Martin}\\[4pt]
+  {\large Data Engineer -- pipelines Python \& Airflow}\\[4pt]
+  Lyon \textbullet{} \href{mailto:camille.martin@example.com}{camille.martin@example.com} \textbullet{} 06 12 34 56 78 \textbullet{} \href{https://www.linkedin.com/in/camille-martin-demo}{linkedin.com/in/camille-martin-demo}
+\end{center}
+
+\section{Profil}
+Data engineer avec 5 ans d'expérience dans la construction de pipelines fiables et la mise à disposition de données pour les équipes produit et marketing.
+
+\section{Expérience}
+\entry{Data Engineer}{2022 -- aujourd'hui}{Logistique Rhône}{Lyon}
+\begin{itemize}
+  \item Conception de pipelines d'ingestion en Python et SQL traitant 2 millions d'événements par jour.
+  \item Migration de l'entrepôt de données vers PostgreSQL et dbt, réduction du temps de calcul de 45\,\%.
+  \item Mise en place de tests de qualité de données et d'alertes pour 30 tables critiques.
+\end{itemize}
+
+\entry{Analyste données}{2020 -- 2022}{Banque Saône}{Villeurbanne}
+\begin{itemize}
+  \item Automatisation de 12 rapports hebdomadaires avec Python et Power BI.
+  \item Modélisation des données clients pour l'équipe marketing.
+\end{itemize}
+
+\section{Formation}
+\entry{Master Informatique, parcours données}{2018 -- 2020}{Université Lyon 1}{Lyon}
+
+\section{Compétences}
+\textbf{Langages :} Python, SQL, Bash\\
+\textbf{Données :} PostgreSQL, dbt, Airflow, Power BI\\
+\textbf{Outils :} Git, Docker, Linux
+
+\section{Langues}
+Français (natif), anglais (courant, TOEIC 910)
+
+\end{document}

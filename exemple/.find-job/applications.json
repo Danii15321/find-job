@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "c-fe76995d",
+      "company": "Société Générale",
+      "companySlug": "societe_generale",
+      "title": "Data Engineer Senior",
+      "url": "https://example.com/offre/123",
+      "location": "",
+      "source": "example.com",
+      "contract": "",
+      "status": "relancee",
+      "createdAt": "2026-10-24T19:32:14.867Z",
+      "updatedAt": "2026-10-30T12:07:50.082Z",
+      "appliedAt": "2026-10-24T19:32:33.146Z",
+      "folder": "candidatures/2026-10-24_societe_generale_data_engineer_senior",
+      "files": {
+        "tex": "candidatures/2026-10-24_societe_generale_data_engineer_senior/cv_societe_generale.tex",
+        "pdf": "candidatures/2026-10-24_societe_generale_data_engineer_senior/cv_societe_generale.pdf",
+        "offer": "candidatures/2026-10-24_societe_generale_data_engineer_senior/offre.md",
+        "analysis": "candidatures/2026-10-24_societe_generale_data_engineer_senior/analyse.json",
+        "letter": "candidatures/2026-10-24_societe_generale_data_engineer_senior/lettre_societe_generale.tex",
+        "letterPdf": "candidatures/2026-10-24_societe_generale_data_engineer_senior/lettre_societe_generale.pdf"
+      },
+      "match": {
+        "score": 75,
+        "covered": 6,
+        "missing": [
+          "Spark",
+          "Kafka",
+          "CI/CD|intégration continue"
+        ],
+        "additions": []
+      },
+      "quality": {
+        "verdict": "à corriger",
+        "ok": false,
+        "pages": 1,
+        "letter": "prête, points à vérifier",
+        "at": "2026-10-30T12:07:50.077Z",
+        "failed": [
+          "faits",
+          "mots-cles",
+          "accroche",
+          "lettre:longueur"
+        ]
+      },
+      "notes": "",
+      "history": [
+        {
+          "at": "2026-10-24T19:32:14.867Z",
+          "status": "preparee",
+          "note": "CV préparé à partir du modèle"
+        },
+        {
+          "at": "2026-10-24T19:32:33.146Z",
+          "status": "postulee",
+          "note": "Envoyée via le site"
+        },
+        {
+          "at": "2026-10-24T19:37:33.481Z",
+          "status": "relancee",
+          "note": "Message au recruteur"
+        }
+      ]
+    },
+    {
+      "id": "c-b2e03689",
+      "company": "Doctolib",
+      "companySlug": "doctolib",
+      "title": "Data Engineer",
+      "url": "https://example.com/doctolib",
+      "location": "Lyon",
+      "source": "example.com",
+      "contract": "",
+      "status": "entretien",
+      "createdAt": "2026-10-24T19:37:33.109Z",
+      "updatedAt": "2026-10-24T19:37:33.349Z",
+      "appliedAt": "2026-10-21T07:30:00.000Z",
+      "folder": "candidatures/2026-10-24_doctolib_data_engineer",
+      "files": {
+        "tex": "candidatures/2026-10-24_doctolib_data_engineer/cv_doctolib.tex",
+        "pdf": "candidatures/2026-10-24_doctolib_data_engineer/cv_doctolib.pdf",
+        "offer": "candidatures/2026-10-24_doctolib_data_engineer/offre.md",
+        "analysis": "candidatures/2026-10-24_doctolib_data_engineer/analyse.json"
+      },
+      "match": null,
+      "quality": null,
+      "notes": "",
+      "history": [
+        {
+          "at": "2026-10-24T19:37:33.109Z",
+          "status": "preparee",
+          "note": "CV préparé à partir du modèle"
+        },
+        {
+          "at": "2026-10-21T07:30:00.000Z",
+          "status": "postulee"
+        },
+        {
+          "at": "2026-10-24T19:37:33.348Z",
+          "status": "entretien",
+          "note": "Entretien RH mardi 14 h"
+        }
+      ]
+    },
+    {
+      "id": "c-9df919aa",
+      "company": "Blablacar",
+      "companySlug": "blablacar",
+      "title": "Analytics Engineer",
+      "url": "https://example.com/bbc",
+      "location": "Télétravail",
+      "source": "example.com",
+      "contract": "",
+      "status": "postulee",
+      "createdAt": "2026-10-24T19:37:33.158Z",
+      "updatedAt": "2026-10-24T19:37:33.395Z",
+      "appliedAt": "2026-10-22T08:10:00.000Z",
+      "folder": "candidatures/2026-10-24_blablacar_analytics_engineer",
+      "files": {
+        "tex": "candidatures/2026-10-24_blablacar_analytics_engineer/cv_blablacar.tex",
+        "pdf": "candidatures/2026-10-24_blablacar_analytics_engineer/cv_blablacar.pdf",
+        "offer": "candidatures/2026-10-24_blablacar_analytics_engineer/offre.md",
+        "analysis": "candidatures/2026-10-24_blablacar_analytics_engineer/analyse.json"
+      },
+      "match": null,
+      "quality": null,
+      "notes": "",
+      "history": [
+        {
+          "at": "2026-10-24T19:37:33.158Z",
+          "status": "preparee",
+          "note": "CV préparé à partir du modèle"
+        },
+        {
+          "at": "2026-10-22T08:10:00.000Z",
+          "status": "postulee"
+        }
+      ]
+    },
+    {
+      "id": "c-9d9ff165",
+      "company": "Michelin",
+      "companySlug": "michelin",
+      "title": "Ingénieur données industrielles",
+      "url": "",
+      "location": "Clermont-Ferrand",
+      "source": "",
+      "contract": "",
+      "status": "postulee",
+      "createdAt": "2026-10-24T19:37:33.209Z",
+      "updatedAt": "2026-10-24T19:37:33.439Z",
+      "appliedAt": "2026-10-14T06:00:00.000Z",
+      "folder": "candidatures/2026-10-24_michelin_ingenieur_donnees_industrielle",
+      "files": {
+        "tex": "candidatures/2026-10-24_michelin_ingenieur_donnees_industrielle/cv_michelin.tex",
+        "pdf": "candidatures/2026-10-24_michelin_ingenieur_donnees_industrielle/cv_michelin.pdf",
+        "offer": "candidatures/2026-10-24_michelin_ingenieur_donnees_industrielle/offre.md",
+        "analysis": "candidatures/2026-10-24_michelin_ingenieur_donnees_industrielle/analyse.json"
+      },
+      "match": null,
+      "quality": null,
+      "notes": "",
+      "history": [
+        {
+          "at": "2026-10-24T19:37:33.209Z",
+          "status": "preparee",
+          "note": "CV préparé à partir du modèle"
+        },
+        {
+          "at": "2026-10-14T06:00:00.000Z",
+          "status": "postulee"
+        }
+      ]
+    },
+    {
+      "id": "c-1ae49700",
+      "company": "Decathlon",
+      "companySlug": "decathlon",
+      "title": "Data Engineer Supply",
+      "url": "",
+      "location": "Lille",
+      "source": "",
+      "contract": "",
+      "status": "preparee",
+      "createdAt": "2026-10-24T19:37:33.259Z",
+      "updatedAt": "2026-10-24T19:37:33.259Z",
+      "appliedAt": null,
+      "folder": "candidatures/2026-10-24_decathlon_data_engineer_supply",
+      "files": {
+        "tex": "candidatures/2026-10-24_decathlon_data_engineer_supply/cv_decathlon.tex",
+        "pdf": "candidatures/2026-10-24_decathlon_data_engineer_supply/cv_decathlon.pdf",
+        "offer": "candidatures/2026-10-24_decathlon_data_engineer_supply/offre.md",
+        "analysis": "candidatures/2026-10-24_decathlon_data_engineer_supply/analyse.json"
+      },
+      "match": null,
+      "quality": null,
+      "notes": "",
+      "history": [
+        {
+          "at": "2026-10-24T19:37:33.259Z",
+          "status": "preparee",
+          "note": "CV préparé à partir du modèle"
+        }
+      ]
+    }
+  ]
+}

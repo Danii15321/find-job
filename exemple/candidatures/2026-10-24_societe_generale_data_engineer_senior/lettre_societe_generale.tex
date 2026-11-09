@@ -1,0 +1,65 @@
+%----------------------------------------------------------------------------------------
+% Lettre de motivation — modèle find-job (une page, pdflatex, paquets standard)
+% Pour utiliser votre propre modèle : placez lettre.tex à la racine de l'espace.
+%----------------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[top=2cm, bottom=2cm, left=2.3cm, right=2.3cm]{geometry}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{bleuencre}{RGB}{22,38,96}
+\definecolor{darkgray}{RGB}{50,50,50}
+\definecolor{midgray}{RGB}{105,105,105}
+\hypersetup{colorlinks=true, urlcolor=bleuencre}
+\pagestyle{empty}
+\color{darkgray}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+\linespread{1.08}
+
+%----------------------------------------------------------------------------------------
+% INFORMATIONS — renseignées par find-job prepare, à compléter par l'agent
+%----------------------------------------------------------------------------------------
+\newcommand{\candidat}{Camille Martin}
+\newcommand{\coordonnees}{camille.martin@example.com \quad 06 12 34 56 78 \quad Lyon}
+\newcommand{\entreprise}{Société Générale}
+\newcommand{\destinataire}{Équipe recrutement}
+\newcommand{\poste}{Data Engineer Senior}
+\newcommand{\datelettre}{Le 24 octobre 2026}
+
+\begin{document}
+
+{\Large\bfseries\color{bleuencre}\candidat}\par\vspace{-0.6em}
+{\small\color{midgray}\coordonnees}
+
+\vspace{1.2em}
+\begin{flushright}
+  \textbf{\entreprise}\\
+  \destinataire\\[0.8em]
+  \datelettre
+\end{flushright}
+
+\textbf{Objet :} candidature -- \poste
+
+Madame, Monsieur,
+
+Les équipes data de Société Générale traitent des volumes que peu d'entreprises connaissent, et la fiabilité des pipelines y compte autant que leur vitesse. C'est ce qui m'attire dans votre offre de Data Engineer Senior.
+
+Chez Logistique Rhône, je conçois depuis 2022 les pipelines d'ingestion qui reçoivent chaque jour deux millions d'événements. J'ai migré notre entrepôt vers PostgreSQL et dbt, ce qui a réduit le temps de calcul de 40\,\%, puis j'ai ajouté des tests de qualité et des alertes sur trente tables critiques. Avant cela, à la Banque Saône, j'ai automatisé douze rapports hebdomadaires pour l'équipe marketing : je connais donc aussi les attentes des métiers bancaires.
+
+J'aimerais apporter cette rigueur à vos flux Airflow et découvrir à vos côtés le traitement en temps réel avec Kafka, que je n'ai encore pratiqué que sur des projets personnels.
+
+Je serais heureuse d'en parler avec vous lors d'un échange.
+
+Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.
+
+\vspace{0.6em}
+\candidat
+
+\end{document}
